@@ -52,7 +52,7 @@ The complete pipeline includes **web scraping, preprocessing, segmentation, data
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/captcha-solver-uni.git
+git clone https://github.com/MarcOBL012/CAPTCHA-Solver-Optical-Character-Recognition-with-Machine-Learning.git
 cd captcha-solver-uni
 ```
 
@@ -77,7 +77,7 @@ This script uses Selenium to navigate to the target URL and save CAPTCHA images 
 
 ### 2. Train and Evaluate the Model
 ```bash
-python PC3_archivos/codigo.py
+python codigo.py
 ```
 
 What the script does:
