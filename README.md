@@ -3,7 +3,6 @@
 This project implements an automated system capable of **segmenting and recognizing characters in distorted text-based CAPTCHA images**.  
 The complete pipeline includes **web scraping, preprocessing, segmentation, data augmentation, and supervised Machine Learning classification**.
 
----
 
 ## 🚀 Key Features
 
