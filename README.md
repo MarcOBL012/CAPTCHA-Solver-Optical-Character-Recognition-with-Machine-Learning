@@ -111,3 +111,8 @@ What the script does:
 - Hyperparameter tuning with `GridSearchCV` and cross-validation.
 - Metrics: accuracy, confusion matrix, precision/recall per class.
 
+## 📬 Contact
+If you use or extend this project, please add a note in the README or contact:
+
+Marco Obispo — marco.obispo.l@uni.pe
+
