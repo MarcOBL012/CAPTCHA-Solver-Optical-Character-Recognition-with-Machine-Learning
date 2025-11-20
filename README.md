@@ -70,7 +70,7 @@ pip install opencv-python numpy pandas matplotlib seaborn scikit-learn selenium
 
 ### 1. Download CAPTCHA Images (Scraping)
 ```bash
-python PC3_archivos/scraping.py
+python scraping.py
 ```
 
 This script uses Selenium to navigate to the target URL and save CAPTCHA images to `Captchas/`.
